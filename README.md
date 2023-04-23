@@ -19,9 +19,7 @@ Esta plataforma tem como objetivo permitir que fotografos amadores (ou não) pos
   <tr>
   <td>HTML</td>
   <td>CSS</td>
-  <td>JAVASCRIPT</td>
-  <td>NODE</td>
-  <td>EXPRESS</td>
-  <td>MYSQL</td>
+  <td>Javascript</td>
+  <td>Node.JS</td>
   </tr>
 </table>
