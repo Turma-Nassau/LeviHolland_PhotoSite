@@ -23,9 +23,9 @@ Esta plataforma tem como objetivo permitir que fotografos amadores (ou não) pos
   <td>Node.JS</td>
   </tr>
    <tr>
-  <td>?</td>
-  <td>?</td>
-  <td>?</td>
+  <td>5</td>
+  <td>3</td>
+  <td>ES6</td>
   <td>12.22.9</td>
   </tr>
 </table>
