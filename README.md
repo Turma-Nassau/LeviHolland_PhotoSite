@@ -16,7 +16,7 @@ Esta plataforma tem como objetivo permitir que fotografos amadores (ou não) pos
 
 ## Roadmap 📌
 1. Iniciar o desenvolvimento
-2. Adicionar as funç
+2. Adicionar as funcionalidades principais
 
 ## TECNOLOGIAS UTILIZADAS NO PROJETO 💻
 <table>
