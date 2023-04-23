@@ -18,7 +18,7 @@ Esta plataforma tem como objetivo permitir que fotografos amadores (ou não) pos
 1. Iniciar o desenvolvimento
 2. Adicionar as funcionalidades principais
 
-## TECNOLOGIAS UTILIZADAS NO PROJETO 💻
+## 🔧 TECNOLOGIAS UTILIZADAS NO PROJETO 🔧
 <table>
   <tr>
   <td>HTML</td>
@@ -36,3 +36,5 @@ Esta plataforma tem como objetivo permitir que fotografos amadores (ou não) pos
 
 ## Autor👨‍💻
  - @LeviHSilva
+ 
+# ESTRUTURA DE DADOS
