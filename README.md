@@ -10,3 +10,8 @@ Esta plataforma tem como objetivo permitir que fotografos amadores (ou não) pos
 + Publicar fotos
 + Criar albuns
 + Criação de portfólio
++ Compartilhamento de fotos individuais, albuns e/ou portifolios 
++ Criação de comunidades 
++ Editor de fotos próprio
+
+##
