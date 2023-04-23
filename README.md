@@ -14,4 +14,14 @@ Esta plataforma tem como objetivo permitir que fotografos amadores (ou não) pos
 + Criação de comunidades 
 + Editor de fotos próprio
 
-##
+## TECNOLOGIAS UTILIZADAS NO PROJETO 💻
+<table>
+  <tr>
+  <td>HTML</td>
+  <td>CSS</td>
+  <td>JAVASCRIPT</td>
+  <td>NODE</td>
+  <td>EXPRESS</td>
+  <td>MYSQL</td>
+  </tr>
+</table>
