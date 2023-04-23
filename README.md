@@ -22,4 +22,10 @@ Esta plataforma tem como objetivo permitir que fotografos amadores (ou não) pos
   <td>Javascript</td>
   <td>Node.JS</td>
   </tr>
+   <tr>
+  <td>?</td>
+  <td>?</td>
+  <td>?</td>
+  <td>12.22.9</td>
+  </tr>
 </table>
