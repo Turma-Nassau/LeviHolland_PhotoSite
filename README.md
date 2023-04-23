@@ -32,3 +32,6 @@ Esta plataforma tem como objetivo permitir que fotografos amadores (ou não) pos
   <td>12.22.9</td>
   </tr>
 </table>
+
+## Autor👨‍💻
+ - @LeviHSilva
