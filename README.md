@@ -15,7 +15,8 @@ Esta plataforma tem como objetivo permitir que fotografos amadores (ou não) pos
 + Editor de fotos próprio
 
 ## Roadmap 📌
-1. Iniciar um perfil
+1. Iniciar o desenvolvimento
+2. Adicionar as funç
 
 ## TECNOLOGIAS UTILIZADAS NO PROJETO 💻
 <table>
