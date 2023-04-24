@@ -42,9 +42,11 @@ Esta plataforma tem como objetivo permitir que fotografos amadores (ou não) pos
   - Usuário
      . Permite o usuário se cadastrar no site para poder usar:
      
-    Usuario {
+        Usuario  {
+        id_user:1
         nome_user:"Nome Usuario"
         sobrenome_user:"Sobrenome Usuario"
-        email:"nome@exemplo.com"
+        email:"exemplo@exemplo.com"
         senha:"senha123"
-    }
+        
+        }
