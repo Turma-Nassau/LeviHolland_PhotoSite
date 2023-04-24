@@ -38,12 +38,13 @@ Esta plataforma tem como objetivo permitir que fotografos amadores (ou não) pos
  - @LeviHSilva
  
 # ESTRUTURA DE DADOS
-    
+  
+  - Usuário
+     . Permite o usuário se cadastrar no site para poder usar:
+     
     Usuario {
-        id_user:1
         nome_user:"Nome Usuario"
         sobrenome_user:"Sobrenome Usuario"
-        email:"examplo@examplo.com"
-        senha:"123LKhjya"
-        saldo_total:12354.55
+        email:"nome@exemplo.com"
+        senha:"senha123"
     }
